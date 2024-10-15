@@ -12,3 +12,5 @@ To get started with the project, clone the repository:
 
 --------bash-------
 git clone https://github.com/Jasonmp35/LunaESP32.git
+
+***** To work with the ESP32, you need to download the extension and configure it for VSCode
