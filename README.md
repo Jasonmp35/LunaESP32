@@ -10,5 +10,5 @@ The Outdoor Satellite Phone Project aims to develop a rugged and reliable satell
 ## Installation
 To get started with the project, clone the repository:
 
-```bash
-git clone https://github.com/username/outdoor-satellite-phone.git
+--------bash-------
+git clone https://github.com/Jasonmp35/LunaESP32.git
